@@ -1,0 +1,21 @@
+.btn {
+    display: inline-block;
+    padding: 2.7rem 7,5rem;
+    background: #ffed4b;
+    font-size: 3rem;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 10px;
+    transition: background 0.5s;
+
+}
+
+.btn:hover {
+    background-color: rgb(161, 197, 239);
+}
+
+.btn {
+    position: sticky;
+    left: 45%;
+    right: 50%;
+}
